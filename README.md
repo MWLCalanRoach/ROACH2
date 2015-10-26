@@ -1,4 +1,4 @@
-Intructions
+#Intructions
 
 To run: 
 python2.7 mi_calibracion_2ADC.py
